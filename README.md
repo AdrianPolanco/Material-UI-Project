@@ -1,4 +1,4 @@
-*** Material UI Practical Project ***
+# Material UI Practical Project
 This was a practical frontend project in order to learn the Material UI library for React, this was the final result:
 
 ![image](https://github.com/AdrianPolanco/Material-UI-Project/assets/116674818/9c52690d-3f34-43b9-8dbc-960c367294b3)
